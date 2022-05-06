@@ -1,1 +1,13 @@
-Management of Top 5 WHATEVER
+##Aufgabenstellung
+###Fügen Sie in der Datei README.md Informationen hinzu
+1.Nutzen Sie dafür die Markdown-Syntax.
+2.Erstellen Sie eine Top 5-Liste freier Wahl.
+3.Verwenden Sie am Anfang der Zeile für die Überschrift ##
+ 4.Verwenden Sie in der Aufzählung am Anfang der Zeile 1.
+
+###Namen
+1.Cedric
+2.Conner
+3.Celina
+4.Marie
+5.Simon
